@@ -1,5 +1,4 @@
 import sqlite3
-from typing import Literal
 
 
 class Database:
